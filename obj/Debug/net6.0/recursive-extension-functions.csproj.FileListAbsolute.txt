@@ -1,0 +1,15 @@
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\bin\Debug\net6.0\recursive-extension-functions.exe
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\bin\Debug\net6.0\recursive-extension-functions.deps.json
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\bin\Debug\net6.0\recursive-extension-functions.runtimeconfig.json
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\bin\Debug\net6.0\recursive-extension-functions.dll
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\bin\Debug\net6.0\recursive-extension-functions.pdb
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\obj\Debug\net6.0\recursive-extension-functions.csproj.AssemblyReference.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\obj\Debug\net6.0\recursive-extension-functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\obj\Debug\net6.0\recursive-extension-functions.AssemblyInfoInputs.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\obj\Debug\net6.0\recursive-extension-functions.AssemblyInfo.cs
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\obj\Debug\net6.0\recursive-extension-functions.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\obj\Debug\net6.0\recursive-extension-functions.dll
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\obj\Debug\net6.0\refint\recursive-extension-functions.dll
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\obj\Debug\net6.0\recursive-extension-functions.pdb
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\obj\Debug\net6.0\recursive-extension-functions.genruntimeconfig.cache
+C:\Users\MEHMET\source\repos\NesneTabanliVizeCalisma\recursive-extension-functions\obj\Debug\net6.0\ref\recursive-extension-functions.dll
